@@ -1,10 +1,10 @@
 ---
 title: Reconninja Wordlists
-emoji: 💬
+emoji: 🌖
 colorFrom: yellow
 colorTo: purple
 sdk: gradio
-sdk_version: 5.0.1
+sdk_version: 5.9.1
 app_file: app.py
 pinned: false
 license: mit
